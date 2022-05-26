@@ -1,0 +1,23 @@
+pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+matplotlib @ file:///C:/ci/matplotlib-suite_1613408055530/work
+numpy==1.22.3
+numpydoc @ file:///tmp/build/80754af9/numpydoc_1605117425582/work
+pandas @ file:///C:/ci/pandas_1641443171711/work
+pandas-datareader==0.10.0
+pandas-profiling @ file:///home/conda/feedstock_root/build_artifacts/pandas-profiling_1589366436905/work
+pandocfilters @ file:///C:/ci/pandocfilters_1605102497129/work
+seaborn @ file:///tmp/build/80754af9/seaborn_1608578541026/work
+streamlit==1.7.0
+scikit-image==0.18.1
+scikit-learn==1.0.2
+scikit-lego @ file:///home/conda/feedstock_root/build_artifacts/scikit-lego_1650520820488/work
+regex @ file:///C:/ci/regex_1617569893741/work
+unicodecsv==0.14.1
+contractions==0.1.72
+gensim @ file:///D:/bld/gensim_1589441310359/work
+nltk @ file:///tmp/build/80754af9/nltk_1592496090529/work
+pyLDAvis @ file:///home/conda/feedstock_root/build_artifacts/pyldavis_1616598811607/work
+clean-text @ file:///home/conda/feedstock_root/build_artifacts/clean-text_1611350533659/work
+textblob==0.15.3
+wordcloud @ file:///D:/bld/wordcloud_1637007599260/work
+protobuf~=3.19.0

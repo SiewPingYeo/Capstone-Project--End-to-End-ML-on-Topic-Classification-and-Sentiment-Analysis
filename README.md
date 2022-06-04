@@ -30,7 +30,8 @@ To allow better visualisation of the situation, the team also created a Tableau 
 
 The final model is deployed on Streamlit and can be accessed over here [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/siewpingyeo/capstone-project--end-to-end-ml-on-topic-classification-and-sentiment-analysis/main/Streamlit/streamlit_app_capstone.py)
 
-Tableau dashboard files can be found in the repo folder named Dashboard. 
+Tableau dashboard files can be found in the repo folder named Dashboard.
+You may also access the dashboard through this link - https://public.tableau.com/views/ML-hotel-reviews-sentiment-and-topic-1_0/1_Introduction?:language=en-US&:display_count=n&:origin=viz_share_link
 
 #### Technology Used
 - Webscraping - Selenium

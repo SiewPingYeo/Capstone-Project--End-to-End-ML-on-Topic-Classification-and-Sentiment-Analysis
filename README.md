@@ -6,7 +6,7 @@ This is a team project with equal contribution with the following members:
 - Edwin Wan
 - Darren Hum
 
-## End-to-End Machine Learning Project on Topic Modelling, Classifictaion and Sentiment Analysis
+## End-to-End Machine Learning Project on Topic Modelling, Classification and Sentiment Analysis
 
 The aim of this project is to sieve out the underlying topics from unstructured text data (hotel reviews) followed by sentiment analysis of the reviews. The hotels that this project will focus on are budget hotels under the Ibis Singapore group. There are a total of 13 budget hotels under the Ibis Singapore brand. The reviews for the 13 budget hotels used in this project were scraped from TripAdvisor using Selenium (code can be found in repo).
 
@@ -29,6 +29,8 @@ To allow better visualisation of the situation, the team also created a Tableau 
 7. Deployment on Streamlit and Data Visualisation on Tableau Dashboard
 
 The final model is deployed on Streamlit and can be accessed over here [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/siewpingyeo/capstone-project--end-to-end-ml-on-topic-classification-and-sentiment-analysis/main/Streamlit/streamlit_app_capstone.py)
+
+Tableau dashboard files can be found in the repo folder named Dashboard. 
 
 #### Technology Used
 - Webscraping - Selenium
